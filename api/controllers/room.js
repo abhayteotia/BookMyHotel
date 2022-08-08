@@ -79,4 +79,4 @@ export const getRooms = async (req, res, next) => {
   } catch (err) {
     next(err);
   }
-};
+}; 
